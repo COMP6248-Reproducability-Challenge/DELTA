@@ -6,3 +6,7 @@ Paper title: DELTA: DE EP L EARNING T RANSFER USING F EATURE M AP WITH A TTENTIO
 OpenReview URL of chosen paper: https://openreview.net/forum?id=rkgbwsAcYm
 
 Original paper code: https://github.com/lixingjian/DELTA
+
+Group Name: Matcha
+
+Group Members: Analle Abuammar, Steven Larry Ball and Swetha Pillai
